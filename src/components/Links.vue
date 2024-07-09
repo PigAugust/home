@@ -69,7 +69,6 @@ const siteIcon = {
   Compass,
   Book,
   Fire,
-  LaptopCode,
 };
 
 // 链接跳转
