@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">一寸光阴一寸金，寸金难买寸光阴。</div>
 </template>
 
 <style lang="scss" scoped>
