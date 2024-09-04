@@ -10,24 +10,9 @@
     "link": "https://pan.ioopp.cn/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.ioopp.cn/"
-  },
-  {
     "icon": "Compass",
     "name": "起始页",
     "link": "https://nav.ioopp.cn/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.ioopp.cn/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://top.ioopp.cn/"
   }
   
 ]
